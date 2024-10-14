@@ -12,7 +12,7 @@ Download .py file and run via Python
 
 ## Usage
 
-![How it looks](https://imgur.com/a/o6bs8yC)
+[How it looks](https://imgur.com/a/o6bs8yC)
 
 
 ## License
