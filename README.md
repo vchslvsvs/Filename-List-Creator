@@ -1,6 +1,6 @@
 # What does Filename-list-creator do?
 
-Automatically created list of filenames contains in selected folder
+Automatically creates list of filenames contains in selected folder
 ## Installation
 
 Simply download .exe file from releases
